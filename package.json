@@ -11,8 +11,7 @@
     "express.js",
     "javascript",
     "mySQL",
-    "sequelize",
-    "school-management-system"
+    "sequelize"
   ],
   "author": "amit-kr-yadav",
   "license": "ISC",
